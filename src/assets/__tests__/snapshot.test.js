@@ -1,6 +1,6 @@
 import React from "react";
 import renderer from "react-test-renderer";
-import ComponentStyling from "../../pages/docs/component-styling";
+import ComponentStyling from "../../pages/docs/oauthConfig";
 import CreateComponent from "../../pages/docs/create-component";
 import EnvironmentSetup from "../../pages/docs/environment-setup";
 import HierarchyVisualization from "../../pages/docs/hierarchy-visualization";

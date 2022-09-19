@@ -26,10 +26,7 @@ export const links = {
       label: "Creating New Components",
       link: "/docs/create-component",
     },
-    {
-      label: "Adding Styling",
-      link: "/docs/component-styling",
-    },
+  
     {
       label: "Using and Visualizing Routes",
       link: "/docs/routes",
@@ -37,6 +34,10 @@ export const links = {
     {
       label: "Hierarchy Visualization",
       link: "/docs/hierarchy-visualization",
+    },
+    {
+      label: "Oauth Configuration",
+      link: "/docs/oauthConfig",
     },
     {
       label: "Saving and Exporting your Code",
